@@ -1,0 +1,7 @@
+Loan Amortization Calculator
+----------------------------
+
+A Loan amortization calculator using design patterns.  Tools : Java Swings 
+
+• Used different patterns like Observer pattern, Controller pattern, Proxy pattern, and Adapter pattern to design the module
+• Used Java Graphics library to produce a graph to show the decline in the amortized numeric values 
