@@ -1,6 +1,8 @@
 Loan Amortization Calculator
 ----------------------------
 
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
+
 A Loan amortization calculator using design patterns.  Tools : Java Swings 
 
 • Used different patterns like Observer pattern, Controller pattern, Proxy pattern, and Adapter pattern to design the module
